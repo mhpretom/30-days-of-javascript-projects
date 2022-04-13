@@ -1,0 +1,64 @@
+
+
+
+.header-text{
+    text-align:center;
+    font-weight:100;
+    font-family:Helvetica;
+    margin-top:100px;
+}
+
+.fa-dice{
+    color:blue;
+}
+
+.dice-container{
+    display:table;
+    margin:auto;
+}
+
+.dice-elements{
+    margin-top:80px;
+    width:700px;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-between;
+}
+.player-1{
+    width:200px;
+
+}
+.player-2{
+    width:200px;
+
+}
+img{
+    width:200px;
+    height:200px;
+}
+p{
+    text-align:center;
+    font-weight:bold;
+    font-family:luminari;
+}
+
+.button{
+    display:table;
+    margin:auto;
+}
+.btn{
+    margin-top:100px;
+    padding:8px 30px;
+    border-radius:5px;
+    border:none;
+    outline:none;
+    background-color:blue;
+    cursor:pointer;
+    font-weight:bold;
+    font-family:helvetica;
+    color:white;
+}
+
+.btn:hover{
+    background-color:red;
+}
